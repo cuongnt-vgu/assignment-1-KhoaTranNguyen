@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gwLX0-9Q)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=16948494)
 ### Objective
 
 The goal of this assignment is to create and manipulate a singly linked list in C. The program should include functions to perform basic operations on the linked list, such as inserting a node at a specific position, adding a node to the end, deleting a node by position, deleting the entire list, and calculating the size of the list.
